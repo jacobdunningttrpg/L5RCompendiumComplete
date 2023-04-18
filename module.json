@@ -231,5 +231,8 @@
             "type": "Macro",
             "system": "l5r5e"
         }
-    ]
+    ],
+  "url": "https://github.com/jacobdunningttrpg/L5R-Compendiums-Complete",
+  "manifest": "https://raw.githubusercontent.com/cswendrowski/FoundryVtt-Npc-Chatter/master/module.json",
+  "download": "https://github.com/jacobdunningttrpg/L5RCompendiumComplete/archive/refs/tags/v1.0.0.0.zip"
 }
