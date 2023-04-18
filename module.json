@@ -1,0 +1,235 @@
+{
+  "id": "l5r-compendiums-complete",
+  "title": "L5R Compendiums Complete",
+  "description": "Completed Compendiums for L5R5e",
+  "authors": [
+    {
+    "name": "Jacob"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+
+"packs":[
+        {
+            "name": "properties",
+            "label": "Properties",
+            "path": "packs/properties.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-kata",
+            "label": "Techniques Kata",
+            "path": "packs/techniques-kata.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-kiho",
+            "label": "Techniques Kihõ",
+            "path": "packs/techniques-kiho.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-inversions",
+            "label": "Techniques Inversions",
+            "path": "packs/techniques-inversions.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-invocations",
+            "label": "Techniques Invocations",
+            "path": "packs/techniques-invocations.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-rituals",
+            "label": "Techniques Rituals",
+            "path": "packs/techniques-rituals.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-shuji",
+            "label": "Techniques Shuji",
+            "path": "packs/techniques-shuji.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-maho",
+            "label": "Techniques Mahõ",
+            "path": "packs/techniques-maho.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-ninjutsu",
+            "label": "Techniques Ninjutsu",
+            "path": "packs/techniques-ninjutsu.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-mantra",
+            "label": "Techniques Mantra",
+            "path": "packs/techniques-mantra.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-school",
+            "label": "School Abilities",
+            "path": "packs/techniques-school.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "techniques-mastery",
+            "label": "Mastery Abilities",
+            "path": "packs/techniques-mastery.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "path": "packs/items.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "armors",
+            "label": "Armors",
+            "path": "packs/armors.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "weapons",
+            "label": "Weapons",
+            "path": "packs/weapons.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "peculiarities-distinctions",
+            "label": "Distinctions",
+            "path": "packs/peculiarities-distinctions.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "peculiarities-passions",
+            "label": "Passions",
+            "path": "packs/peculiarities-passions.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "peculiarities-adversities",
+            "label": "Adversities",
+            "path": "packs/peculiarities-adversities.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "peculiarities-anxieties",
+            "label": "Anxieties",
+            "path": "packs/peculiarities-anxieties.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "bonds",
+            "label": "Bonds",
+            "path": "packs/bonds.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "titles",
+            "label": "Titles",
+            "path": "packs/titles.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "item-patterns",
+            "label": "Item Patterns",
+            "path": "packs/item-patterns.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "signature-scrolls",
+            "label": "Signature Scrolls",
+            "path": "packs/signature-scrolls.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "celestial-implement-boons",
+            "label": "Celestial Implement Boons",
+            "path": "packs/celestial-implement-boons.db",
+            "type": "Item",
+            "system": "l5r5e"
+        },
+        {
+            "name": "journal-school-curriculum",
+            "label": "School Curriculum",
+            "path": "packs/journal-school-curriculum.db",
+            "type": "JournalEntry",
+            "system": "l5r5e"
+        },
+        {
+            "name": "journal-conditions",
+            "label": "Conditions",
+            "path": "packs/journal-conditions.db",
+            "type": "JournalEntry",
+            "system": "l5r5e"
+        },
+        {
+            "name": "journal-terrain-qualities",
+            "label": "Terrain Qualities",
+            "path": "packs/journal-terrain-qualities.db",
+            "type": "JournalEntry",
+            "system": "l5r5e"
+        },
+        {
+            "name": "journal-great-clans-presentation",
+            "label": "Great Clans Presentation",
+            "path": "packs/journal-great-clans-presentation.db",
+            "type": "JournalEntry",
+            "system": "l5r5e"
+        },
+        {
+            "name": "journal-opportunities",
+            "label": "Opportunities",
+            "path": "packs/journal-opportunities.db",
+            "type": "JournalEntry",
+            "system": "l5r5e"
+        },
+        {
+            "name": "name-tables",
+            "label": "Name Tables",
+            "path": "packs/name-tables.db",
+            "type": "RollTable",
+            "system": "l5r5e"
+        },
+        {
+            "name": "macros",
+            "label": "L5R5E Macros",
+            "path": "packs/macros.db",
+            "type": "Macro",
+            "system": "l5r5e"
+        }
+    ]
+}
